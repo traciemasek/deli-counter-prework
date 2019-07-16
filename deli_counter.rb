@@ -12,3 +12,4 @@ def line(line)
   end
 end
 
+def take_a_number(deli_queue, name)
