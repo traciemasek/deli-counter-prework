@@ -14,5 +14,5 @@ end
 
 def take_a_number(deli_queue, name)
   deli_queue << name
-  puts "#{name} is number #{deli_queue.index(name) + 1} in line."
+  puts "Welcome, #{name}. You are number #{deli_queue.index(name) + 1} in line."
 end
